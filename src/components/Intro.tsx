@@ -17,13 +17,13 @@ const Intro: React.FC = () => {
           Let's celebrate love,<br />laughter, and happily ever after.
         </div>
         <p className="intro-body">
-          Together with our families, we — Ponlork and Neathaya — joyfully invite you to celebrate our union in marriage.
+          Together with our families, Ponlork and Neathaya joyfully invite you to celebrate our union in marriage.
         </p>
         <div className="intro-datebox">
           <div className="day">Monday</div>
           19th of April 2027<br />
           Ceremony starts at 2:00 PM<br />
-          <span style={{ opacity: 0.7 }}>Venue: to be announced</span>
+          <span style={{ opacity: 0.7 }}>Venue: Phnom Pros Hotel</span>
         </div>
       </div>
     </section>
