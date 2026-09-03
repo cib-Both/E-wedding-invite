@@ -7,7 +7,6 @@ const FLASH_DELAY = 320;
 const CurtainReveal: React.FC = () => {
   const [open, setOpen] = useState(false);
   const [flash, setFlash] = useState(false);
-  const [whiteOut, setWhiteOut] = useState(false);
   const [hidden, setHidden] = useState(false);
 
   useEffect(() => {
